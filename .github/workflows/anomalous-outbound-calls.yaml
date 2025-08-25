@@ -1,4 +1,4 @@
-name: Anomalous Outbound Calls
+ name: Anomalous Outbound Calls
 on:
   workflow_dispatch:
 jobs:
